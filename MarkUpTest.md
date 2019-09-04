@@ -32,5 +32,5 @@
 1. 메뉴2
 
 2. 서브 메뉴
-  - level 2
-    - level 3
+    - level 2
+      - level 3
