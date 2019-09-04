@@ -11,4 +11,4 @@
 <br>
 **굵게 쓰기**
 
-[링크](https://s.hallym.com "한림대스마트 캠퍼스")
+[링크](https://google.com "")
