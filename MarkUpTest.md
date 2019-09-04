@@ -69,3 +69,7 @@ printf("%s = %d", "Hello, World", value);
 
 LACK Mainnet에서 보팅 파워는 EOS Mainnet과 크게는 유사하나 Contribute Time<sup id="a9">[9](#f9)</sup>과 투표 계정수에 따른 보팅 파워 균등 분할 원칙이 적용됩니다.
 
+<b id="f8"><sup>8</sup></b> 보팅 파워는 계정이 보유한 Staked Token의 양과 비례함. [↩](#a8)<br>
+
+<b id="f9"><sup>9</sup></b> 계정을 유지한 총 기간을 뜻하며 ‘사용자 충성도(User Loyalty)’로 간주함. [↩](#a9)<br>
+
