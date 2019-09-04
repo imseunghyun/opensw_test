@@ -17,3 +17,5 @@
 
 [1]: http://www.naver.com "네이버"
 [2]: http://www.s.hallym.ac.kr "한림대스마트 캠퍼스"
+
+<http://www.google.com>
