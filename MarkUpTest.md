@@ -47,3 +47,8 @@
 ```
 mkdir opensw
 ```
+
+``` c
+int value = 10;
+printf("%s = %d", "Hello, World", value);
+```
