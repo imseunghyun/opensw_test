@@ -59,3 +59,13 @@ printf("%s = %d", "Hello, World", value);
 #### 제목4 ####
 ##### 제목5 #####
 ###### 제목6 ######
+
+| First Header | Second Header | Third Header |
+| :----------- | :-----------: | -----------: |
+| Table 1      | Table2        | Table3       |
+[Table caption, works as a refernce]
+
+스테이크홀더는 각자가 보유한 BLACK 수량에 비례하여 보팅 파워(Voting Power)<sup id="a8">[8](#f8)</sup>을 행사할 수 있습니다
+
+LACK Mainnet에서 보팅 파워는 EOS Mainnet과 크게는 유사하나 Contribute Time<sup id="a9">[9](#f9)</sup>과 투표 계정수에 따른 보팅 파워 균등 분할 원칙이 적용됩니다.
+
