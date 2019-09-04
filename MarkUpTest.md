@@ -12,3 +12,7 @@
 **굵게 쓰기**
 
 [링크](https://google.com "")
+
+[링크A][1] 과 [링크B][2]
+[1]: https://www.naver.com "네이버"
+[2]: https://www.s.hallym.ac.kr "한림대스마트 캠퍼스"
