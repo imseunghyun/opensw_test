@@ -73,4 +73,4 @@ LACK Mainnet에서 보팅 파워는 EOS Mainnet과 크게는 유사하나 Contri
 
 <b id="f9"><sup>9</sup></b> 계정을 유지한 총 기간을 뜻하며 ‘사용자 충성도(User Loyalty)’로 간주함. [↩](#a9)<br>
 
-수정된 내용
+2019-09-11 수정됨
